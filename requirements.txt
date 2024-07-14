@@ -1,0 +1,7 @@
+﻿altair==5.2.0
+matplotlib==3.7.2
+pandas==2.0.3
+pickleshare==0.7.5
+seaborn==0.13.2
+streamlit==1.31.1
+scikit-learn==1.4.1.post1
